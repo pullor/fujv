@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fuju
 
 > A Vue.js project
@@ -28,3 +29,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# fujv 测试
+>>>>>>> 3d202fb9f311905be339cb85a501faf81b622901
